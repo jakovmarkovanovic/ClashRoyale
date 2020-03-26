@@ -29,6 +29,7 @@ namespace ClashRoyale.Protocol
                 //{520, typeof(LogicShopSeenCommand)},
                 //{521, typeof(LogicSendAllianceMailCommand)},
                 {522, typeof(LogicChallengeCommand)},
+                {523, typeof(ClaamAchimentsCommand)},//not done logich
                 {525, typeof(StartMatchmakeCommand)},
                 {526, typeof(LogicChestNextCardCommand)},
                 {529, typeof(LogicCopyDeckCommand)},
